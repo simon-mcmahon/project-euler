@@ -16,7 +16,7 @@ To play around with this repository, use the command:
 
 Scripts inside the **progress_2015-2016 filder use **python 2.7**.  **Python 3.X** is used elsewhere.
 
-Note that some problems in **progress_2018** depend on text files containing primes sourced from [here](http://www.primos.mat.br/2T_en.html).
+Note that some problems in **progress_2018** depend on text files containing primes sourced from [here.](http://www.primos.mat.br/2T_en.html)
 
 External libraries are sometimes required, look at the script and install before use.
 
@@ -30,5 +30,5 @@ External libraries are sometimes required, look at the script and install before
 |   ⟶ [number].py | The python code which solves the relevent Project Euler problem either by printing the correct answer or defining a variable equals it. |
 |progress_2018 | Folder containing all problems attempted in or after the year 2018. |
 |   ⟶ incomplete | Home to the work in progress python scripts which I did not get around to completing. |
-|   ⟶ primes | Folder containing list of extracted txt files each containing 10 million primes for certain problems. Found (here)[http://www.primos.mat.br/2T_en.html	]  |
+|   ⟶ primes | Folder containing list of extracted txt files each containing 10 million primes for certain problems. Found [here.](http://www.primos.mat.br/2T_en.html)  |
 |   ⟶ [number].py | The python code which solves the relevent Project Euler problem either by printing the correct answer or defining a variable equals it. |
