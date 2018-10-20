@@ -1,1 +1,0 @@
-Useless file which had to be created to get the desired directories added to git.
